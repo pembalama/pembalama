@@ -3,7 +3,8 @@
 ## I'm a Full Stack Web Developer.
 
 
-- 🌱 I’m currently learning GraphQL, TypeScript, Design, Testing, Next.js
+- Technologies I enjoy using HTML, CSS, JavaScript, React, Redux, Express, Node.js. I’m currently learning GraphQL, TypeScript, Design, Testing, Next.js.
+ 
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
