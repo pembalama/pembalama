@@ -11,7 +11,7 @@
 
 
 [website]: https://pembalama.com
-[twitter]: https://twitter.com/pembalama
+[twitter]: https://twitter.com/pembatlama
 [linkedin]: https://linkedin.com/in/pembalama
 
 
