@@ -1,6 +1,6 @@
-### Hi, I'm Pemba.👋
 
-## I'm a Full Stack Web Developer.
+
+## Full Stack Web Developer.
 
 
 - Technologies I enjoy using HTML, CSS, JavaScript, React, Redux, Express, Node.js, SQL. 
