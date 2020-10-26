@@ -4,7 +4,7 @@
 
 
 - Technologies I enjoy using HTML, CSS, JavaScript, React, Redux, Express, Node.js, SQL. 
-- I’m currently learning GraphQL, TypeScript, Design, Testing, Next.js.
+
  
 
 🏡 [website][website] **|** 
