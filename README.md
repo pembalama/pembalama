@@ -7,7 +7,6 @@ I am a Full Stack Web Developer. Technologies I enjoy using HTML, CSS, JavaScrip
 
 
  - [pembalama.com](https://pembalama.com)
- - [Twitter](https://twitter.com/pembatlama)
- - [Linkedin](https://linkedin.com/in/pembalama)
+ - [LinkedIn](https://linkedin.com/in/pembalama)
 
 
