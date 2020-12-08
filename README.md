@@ -1,19 +1,19 @@
 
 
-## Full Stack Web Developer.
+## 👋 Hey there
 
-
+- I am a Full Stack Web Developer.
 - Technologies I enjoy using HTML, CSS, JavaScript, React, Redux, Express, Node.js, SQL. 
 
  
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+🏡 [Website][Website] **|** 
+🐦 [Twitter][Twitter] **|** 
+👔 [Linkedin][Linkedin]
 
 
-[website]: https://pembalama.com
-[twitter]: https://twitter.com/pembatlama
-[linkedin]: https://linkedin.com/in/pembalama
+[Website]: https://pembalama.com
+[Twitter]: https://twitter.com/pembatlama
+[Linkedin]: https://linkedin.com/in/pembalama
 
 
