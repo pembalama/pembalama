@@ -1,6 +1,6 @@
 
 
-## 👋 Hey there
+👋 Hey there
 
 I am a Full Stack Web Developer. Technologies I enjoy using HTML, CSS, JavaScript, React, Redux, Express, Node.js, SQL. 
 
